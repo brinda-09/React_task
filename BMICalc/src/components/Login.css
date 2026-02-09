@@ -1,0 +1,25 @@
+.login-container{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  height:100vh;
+  width: 100vw;
+  background-color: lightblue;
+}
+.login-title{
+  font-size: 24px;
+  font-weight: bold;
+}
+.login-form{
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+#cls1, #cls2{
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
